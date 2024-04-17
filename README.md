@@ -18,18 +18,22 @@ Click run button in the up right corner to see the process:
 How to install
 ------------
 To use, download the zip-file "RemoteLocationXY.0.1.zip" and install it to QGIS 3.x via "Plugins -> Manage and install Plugins...-> Install from ZIP" or install via the tool repository as shown below.
-1. From QGIS main menu go to "Plugins -> Manage and install Plugins...-> Settings" 
+1. From QGIS main menu go to "Plugins -> Manage and install Plugins...-> Settings"
+
 ![image](https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/assets/6863405/4ad14d74-9328-47e5-bf72-b8d2ee6def6d)
 ![image](https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/assets/6863405/61d6bd84-f618-485e-9a4b-9e1aba974286)
 
 2. Click "Add..." button and input any name (e.g. "RemoteLocationXY") and the URL: https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/raw/main/plugin.xml
+
 ![image](https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/assets/6863405/4d6c6e57-d8d4-4a8a-8a42-fadc557a366b)
 
 3. Press "Ok" and move to the "All" section of the Plugins manager, then start typing the tool name "triangulate..." in the search window
+
 ![image](https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/assets/6863405/93a67349-746d-40a8-96fc-ef3c767b875e)
 
 4. Click on the name of the plugin as it comes up in the search list, then press the "Install" button in the buttom right corner.
-The plugin installed. You can find it in the Processing Toolbox 
+The plugin installed. You can find it in the Processing Toolbox
+
 ![image](https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/assets/6863405/36fb4a61-724e-4f8c-a3d9-969007b74b02)
 
 History
