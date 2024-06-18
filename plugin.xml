@@ -1,10 +1,10 @@
 <plugins>
-    <pyqgis_plugin name="Triangulate Remote Location XY" version="0.1">
+    <pyqgis_plugin name="Triangulate Remote Location XY" version="0.2">
         <description>Finds the coordinates of a remote object using observation coordinates and azimuths. The triangulation data should include azimuths to an observed object from three points of observation and the coordinates of the observation points (in WGS84 decimal degrees). The tool creates an estimate of error for the coordiante and displays it as a buffer of location around the estimated coordinate. The input and output data are stored in a Comma Separate Value file (.csv). The name and folder of the output files could be choosen by user or left blank to use the default (the "RemoteLocationXY" subfolder in the current project folder). Basic information about the output is also displayed in the process log during the run.</description>
         <homepage>https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/tree/main</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>RemoteLocationXY.0.1.zip</file_name>
+        <file_name>RemoteLocationXY.0.2.zip</file_name>
         <author_name>Dmitrii Sarychev, Dorn Moore, ICF</author_name>
-        <download_url>https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/raw/main/RemoteLocationXY.0.1.zip</download_url>
+        <download_url>https://github.com/DmitriiSarychev/RemoteLocationXY-QGIS/raw/main/RemoteLocationXY.0.2.zip</download_url>
     </pyqgis_plugin>
 </plugins>
